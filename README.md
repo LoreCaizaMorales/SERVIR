@@ -8,7 +8,7 @@
 * [Resultados](#resultados)
 
 ## Descripción del proyecto 
-:deciduous_tree:Esta es una herramienta integrando dentro de la plataforma Google Earth Engine el cloud computing, la teledetección y el machine learning en una herramienta de acceso gratuito y didáctico que permita el monitoreo continuo de cambios en el ecosistema manglar del Ecuador.
+:deciduous_tree:Esta es una herramienta creada dentro de la plataforma Google Earth Engine que integra el cloud computing, la teledetección y el machine learning, sera de acceso gratuito y didáctico y permitira el monitoreo continuo de cambios en el ecosistema manglar del Ecuador.
 La herramienta aplica algoritmos de clasificación supervisada (Random Forest) y se alimenta por datos ópticos y radar del proyecto Copernicus. 
 
 ## Herramienta 
